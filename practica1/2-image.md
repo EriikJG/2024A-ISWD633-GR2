@@ -35,7 +35,7 @@ Está diseñado para ofrecer un bajo uso de memoria y alta concurrencia. En luga
 
 
 Descargar la imagen  **nginx** en la versión **alpine**
-![Imagen](imagenes/docker_image_nginx.pngs)
+![Imagen](imagenes/docker_image_nginx.png)
 
 ### Listar imágenes
 
@@ -43,7 +43,8 @@ Descargar la imagen  **nginx** en la versión **alpine**
 docker images
 ```
 
-# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+![Imagen](imagenes/docker_image_listImages.png)
+
 
 **Identificadores**
 En Docker, se utilizan varios identificadores para diferenciar de manera única los elementos del sistema, como imágenes, contenedores, volúmenes y redes. Estos identificadores son generados automáticamente por Docker y son únicos dentro del contexto del sistema Docker en el que se encuentran. 
