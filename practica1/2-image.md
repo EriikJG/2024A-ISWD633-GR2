@@ -27,7 +27,7 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
-![Imagen](imagenes/docker_helloWorld.PNG)
+![Imagen](imagenes/docker_helloWorld.png)
 
 **¿Qué es nginx**
 Ngix es un servidor web de código abierto que, desde su éxito inicial como servidor web, ahora también es usado como proxy inverso, cache de HTTP, y balanceador de carga.
@@ -35,7 +35,7 @@ Está diseñado para ofrecer un bajo uso de memoria y alta concurrencia. En luga
 
 
 Descargar la imagen  **nginx** en la versión **alpine**
-![Imagen](imagenes/docker_image_nginx.PNG)
+![Imagen](imagenes/docker_image_nginx.pngs)
 
 ### Listar imágenes
 
